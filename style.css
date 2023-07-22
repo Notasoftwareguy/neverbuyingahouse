@@ -12,13 +12,12 @@
     display: grid;
     column-gap: 10px;
     row-gap: 10px;
-    grid-template-columns: 180px auto;
+    grid-template-columns: 200px auto;
     /* background-color: #2196F3; */
     /* padding: 10px; */
   }
 
 body {
-    min-height: 100vh;
     font-family: "Helvetica Neue", sans-serif;
     background-color: whitesmoke;
     margin: 0;
