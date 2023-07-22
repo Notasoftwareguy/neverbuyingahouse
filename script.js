@@ -58,7 +58,7 @@ function calculate() {
 
     let rent_saving = Math.round(monthly_house_cost-rent);
     document.getElementById("monthly_house").innerHTML = ('Monthly house cost: $'+Math.round(monthly_house_cost));
-    document.getElementById("monthly_rent_savings").innerHTML = ('Monthly rent saving: $'+rent_saving);
+    document.getElementById("monthly_rent_saving").innerHTML = ('Monthly rent savings: $'+rent_saving);
 }
 
 
